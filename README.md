@@ -10,5 +10,5 @@
 
 * "Ethnic diversity, elections and violent conflict in Africa."
 
-* "Mining and Protests: Evidence from African Industrial Mines." <br>
+* ["Mining and Protests: Evidence from African Industrial Mines."](https://www.researchgate.net/publication/319502542_Mining_and_Protests_Evidence_from_African_Industrial_Mines) <br>
 With [Carl Henrik Knutsen](http://folk.uio.no/carlhk), [Andreas Kotsadam](https://andreaskotsadam.wordpress.com) and [Tore Wig.](https://torewig.wordpress.com)
