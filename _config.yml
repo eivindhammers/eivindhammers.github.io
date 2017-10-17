@@ -5,4 +5,4 @@ description:
   \n This page contains research, replication code for published papers, and some R code that I have compiled into packages.
 google_analytics: "UA-55715082-1 "
 show_downloads: false
-theme: minimal
+theme: jekyll-theme-minimal
