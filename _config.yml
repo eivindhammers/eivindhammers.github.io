@@ -1,8 +1,8 @@
 title: Eivind Hammersmark
-email: your-email@domain.com
+email: eivindhammers@gmail.com
 description: 
   I am a PhD candidate at the Department of Economics, University of Oslo, doing research on sub-national aspects of African economic development. 
-  This page contains research, replication code for published papers, and some R code that I have compiled into packages.
+  \n This page contains research, replication code for published papers, and some R code that I have compiled into packages.
 google_analytics: "UA-55715082-1 "
 show_downloads: false
-theme: minima
+theme: minimal
