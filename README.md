@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Eivind Hammersmark
+I am a PhD candidate at the Department of Economics, University of Oslo. My research concerns subnational aspects of African economic development. On this site you can find links to my research, some R code, and replication code for published papers.
 
-You can use the [editor on GitHub](https://github.com/eivindhammers/eivindhammers.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Publications:
+"Mining and local corruption in Africa." American Journal of Political Science, 2017. With Carl Henrik Knutsen, Andreas Kotsadam and Tore Wig.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eivindhammers/eivindhammers.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Work in Progress
+"Lighting the path: The influence of historical Christian missions on modern-day development aid allocation in Africa". With M. Alpino. (Submitted.)
+"Ethnic diversity, elections and violent conflict in Africa"
+"Mining and Protests: Evidence from African Industrial Mines." With Carl Henrik Knutsen, Andreas Kotsadam and Tore Wig.
