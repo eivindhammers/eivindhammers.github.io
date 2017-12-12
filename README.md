@@ -8,7 +8,7 @@
 ### Work in Progress
 * ["Lighting the path: The influence of historical Christian missions on modern-day development aid allocation in Africa."](files/missions_aid.pdf) With [M. Alpino.](https://sites.google.com/site/alpinomtt) (Submitted.)
 
-* ["Ethnic diversity, elections and violent conflict in Africa."](files/ethnic_diversity.pdf)
+* ["Ethnolinguistic diversity, elections and violent conflict in sub-Saharan Africa."](files/ethnic_diversity.pdf)
 
-* ["Mining and Protests: Evidence from African Industrial Mines."](https://www.researchgate.net/publication/319502542_Mining_and_Protests_Evidence_from_African_Industrial_Mines) <br>
+* ["Mining and protests: Evidence from African industrial mines."](https://www.researchgate.net/publication/319502542_Mining_and_Protests_Evidence_from_African_Industrial_Mines) <br>
 With [Carl Henrik Knutsen](http://folk.uio.no/carlhk), [Andreas Kotsadam](https://andreaskotsadam.wordpress.com) and [Tore Wig.](https://torewig.wordpress.com)
