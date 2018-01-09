@@ -15,4 +15,6 @@ With [Carl Henrik Knutsen](http://folk.uio.no/carlhk), [Andreas Kotsadam](https:
 
 ### Work in progress
 
-Food price and violent crime: Evidence from Mexico. With [Matteo Alpino.](https://sites.google.com/site/alpinomtt)
+* "Food price and violent crime: Evidence from Mexico." With [Matteo Alpino.](https://sites.google.com/site/alpinomtt)
+
+* "Electoral competition and non-state violence."
