@@ -6,6 +6,6 @@ description:
   This page contains links to research, and replication code for published papers.
 about_me: 
   I am a PhD candidate at the Department of Economics, University of Oslo, doing research on subnational aspects of African economic development. 
-google_analytics: "UA-44788563-1"
+google_analytics: UA-44788563-1
 show_downloads: false
 theme: jekyll-theme-minimal
