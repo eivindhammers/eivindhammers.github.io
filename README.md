@@ -1,5 +1,5 @@
 
-### Publications:
+### Publications
 * "Mining and local corruption in Africa." <br>
   American Journal of Political Science ([2017](http://onlinelibrary.wiley.com/doi/10.1111/ajps.12268/full)). <br>
   With [Carl Henrik Knutsen](http://folk.uio.no/carlhk), [Andreas Kotsadam](https://andreaskotsadam.wordpress.com) and [Tore Wig.](https://torewig.wordpress.com) <br>
