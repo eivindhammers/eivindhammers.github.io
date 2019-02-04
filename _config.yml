@@ -1,11 +1,11 @@
 title: Eivind Hammersmark
-author: Your Name
+author: Eivind Hammersmark
 contact: eivindhammers [at] gmail.com
 cv: files/CV.pdf
 description:
   This page contains links to research, and replication code for published papers.
-about_me: 
-  I am a PhD economist located in Oslo, doing research on subnational aspects of African economic development. 
+about_me:
+  PhD economist located in Oslo, doing research on subnational aspects of African economic development.
 google_analytics: UA-44788563-1
 show_downloads: false
 theme: jekyll-theme-minimal
