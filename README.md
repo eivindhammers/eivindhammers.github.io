@@ -8,13 +8,7 @@
 ### Other research papers
 * ["Ethnolinguistic diversity, elections and violent conflict in sub-Saharan Africa."](files/ethnic_diversity.pdf)
 
-* ["Lighting the path: The influence of historical Christian missions on modern-day development aid allocation in Africa."](files/missions_aid.pdf) With [Matteo Alpino.](https://sites.google.com/site/alpinomtt) Minor revision requested, World Bank Economic Review.
+* ["The role of historical Christian missions in the location of World Bank aid in Africa."](files/missions_aid.pdf) With [Matteo Alpino.](https://sites.google.com/site/alpinomtt) Accepted for publication in World Bank Economic Review.
 
 * ["Mining and protests: Evidence from African industrial mines."](https://www.researchgate.net/publication/319502542_Mining_and_Protests_Evidence_from_African_Industrial_Mines) <br>
 With [Carl Henrik Knutsen](http://folk.uio.no/carlhk), [Andreas Kotsadam](https://andreaskotsadam.wordpress.com) and [Tore Wig.](https://torewig.wordpress.com) 
-
-### Work in progress
-
-* "Food price and violent crime: Evidence from Mexico." With [Matteo Alpino.](https://sites.google.com/site/alpinomtt)
-
-* "Electoral competition and non-state violence."
