@@ -6,7 +6,7 @@
   [Working paper version.](http://www.sv.uio.no/econ/english/research/unpublished-works/working-papers/pdf-files/2015/memo-09-2015.pdf)   [Online Appendix.](files/ajps12268-sup-0001-Online-Appendix-AJPS.pdf) [Replication files.](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/ZSYWHO)
 
 * "The role of historical Christian missions in the location of World Bank aid in Africa." <br>
-[Forthcoming](files/missions_aid.pdf) in the World Bank Economic Review <br>
+[Forthcoming](files/missions_aid.pdf) in the World Bank Economic Review. <br>
 With [Matteo Alpino.](https://sites.google.com/site/alpinomtt)
 
 ### Working papers
