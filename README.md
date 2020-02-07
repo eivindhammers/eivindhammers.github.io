@@ -5,8 +5,8 @@
   With [Carl Henrik Knutsen](http://folk.uio.no/carlhk), [Andreas Kotsadam](https://andreaskotsadam.wordpress.com) and [Tore Wig.](https://torewig.wordpress.com) <br>
   [Working paper version.](http://www.sv.uio.no/econ/english/research/unpublished-works/working-papers/pdf-files/2015/memo-09-2015.pdf)   [Online Appendix.](files/ajps12268-sup-0001-Online-Appendix-AJPS.pdf) [Replication files.](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/ZSYWHO)
 
-* ["The role of historical Christian missions in the location of World Bank aid in Africa."](files/missions_aid.pdf) <br>
-Forthcoming in the World Bank Economic Review. <br>
+* "The role of historical Christian missions in the location of World Bank aid in Africa." <br>
+World Bank Economic Review ([2020](https://academic.oup.com/wber/advance-article/doi/10.1093/wber/lhz050/5727532?guestAccessKey=5a9270ea-e2c0-4c14-a77b-62522cad6543)). <br>
 With [Matteo Alpino.](https://sites.google.com/site/alpinomtt) <br>
 
 ### Working papers
