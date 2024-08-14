@@ -5,7 +5,7 @@ cv: files/CV.pdf
 description:
   This page contains links to research, and replication code for published papers.
 about_me:
-  PhD economist, Senior Adviser at <a href="https://norad.no">Norad</a>. Research interests include subnational and historical aspects of economic development, conflict and natural resources.
+  PhD economist, Senior Lecturer at <a href="https://www.sv.uio.no/econ/">University of Oslo Department of Economics</a>, doing research on foreign aid, economic development, conflict, natural resources.
 google_analytics: UA-44788563-1
 show_downloads: false
 theme: jekyll-theme-minimal
